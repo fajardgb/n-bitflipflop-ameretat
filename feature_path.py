@@ -13,7 +13,7 @@ from torchvision.utils import make_grid
 # Matplotlib for plotting
 import matplotlib as mpl
 import matplotlib.pyplot as plt
-%matplotlib inline
+
 
 # SciPy for statistical functions
 from scipy import stats
